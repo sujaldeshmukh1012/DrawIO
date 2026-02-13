@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="WjdqJgoE5dNJMvmUkevm">
-    <mxGraphModel dx="2740" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4438" dy="2435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,9 @@
         <mxCell id="AIqmo83VGJqIfYwz4s-m-57" edge="1" parent="1" source="AIqmo83VGJqIfYwz4s-m-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="AIqmo83VGJqIfYwz4s-m-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AIqmo83VGJqIfYwz4s-m-64" edge="1" parent="1" source="AIqmo83VGJqIfYwz4s-m-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AIqmo83VGJqIfYwz4s-m-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AIqmo83VGJqIfYwz4s-m-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MANAGER DASHBOARD" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="140" as="geometry" />
         </mxCell>
@@ -95,6 +98,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AIqmo83VGJqIfYwz4s-m-59" edge="1" parent="1" source="AIqmo83VGJqIfYwz4s-m-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AIqmo83VGJqIfYwz4s-m-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIqmo83VGJqIfYwz4s-m-63" edge="1" parent="1" source="AIqmo83VGJqIfYwz4s-m-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AIqmo83VGJqIfYwz4s-m-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AIqmo83VGJqIfYwz4s-m-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EMPLOYEE DASHBAORD" vertex="1">
@@ -147,6 +153,12 @@
         </mxCell>
         <mxCell id="AIqmo83VGJqIfYwz4s-m-54" edge="1" parent="1" source="AIqmo83VGJqIfYwz4s-m-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.396;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" target="AIqmo83VGJqIfYwz4s-m-50">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIqmo83VGJqIfYwz4s-m-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Manager Total Projects" vertex="1">
+          <mxGeometry height="60" width="120" x="-680" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="AIqmo83VGJqIfYwz4s-m-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Employee&lt;div&gt;&amp;nbsp;Total Projects&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
